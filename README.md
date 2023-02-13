@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [//]: https://github-readme-stats.vercel.app/api?username=welliardiansyah&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating
 
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=welliardiansyah&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
+
 - 🐍 Python: middle
 - 🦈 Docker: middle
 - 📦 JavaScript: senior
