@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 🦈 Docker: middle
 - 📦 JavaScript: senior
 - 📦 Php: senior
+- 📦 Go: middle
 - 👀 C/C++: junior
 - 🍥 OS: Macos, Ubuntu
 - 📫 E-mail: [ardiansyahwelly1992@gmail.com](ardiansyahwelly1992@gmail.com)
