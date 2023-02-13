@@ -14,26 +14,19 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rongronggg9&column=-1" alt="Rongronggg9's GitHub trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=welliardiansyah&column=-1" alt="welliardiansyah's GitHub trophy">
 </div>
 
 <hr>
 
-[//]: https://github-readme-stats.vercel.app/api?username=Rongronggg9&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating
+[//]: https://github-readme-stats.vercel.app/api?username=welliardiansyah&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating
 
 <img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=Rongronggg9&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating" alt="Rongronggg9's GitHub Stats">
 
-- 🐍 Python: senior
-- 🦈 Docker: senior
-- 📦 JavaScript: junior
+- 🐍 Python: middle
+- 🦈 Docker: middle
+- 📦 JavaScript: senior
 - 👀 C/C++: junior
-- 🎨 Graphic design: junior
-- 🖼️ Image manipulation: junior
-- 📷 Photography: junior
-- 🎬 Non-linear editing: junior
-- 📱 GUI: baby
-- 🍥 OS: Debian testing w/ KDE Plasma
+- 🍥 OS: Macos, Ubuntu
 - 💭 Pronouns: she/her
-- 📫 E-mail: [i@rong.moe](mailto:i@rong.moe)
-- 💬 Telegram: [@RongrongNyaa](https://t.me/RongrongNyaa)
-- 📣 Babel: `cmn`, `en`, `yue` (L1), `zh-Hans`, `zh-Hant`
+- 📫 E-mail: [ardiansyahwelly1992@gmail.com](ardiansyahwelly1992@gmail.com)
