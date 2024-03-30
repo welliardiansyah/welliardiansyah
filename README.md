@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=welliardiansyah&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20WELLIARDIANSYAH%20is%20vibrating" alt="Rongronggg9's GitHub Stats">
 
-- 🐍 Python: middle
-- 🦈 Docker: middle
+- 🐍 Java: middle
 - 📦 JavaScript: senior
 - 📦 Php: senior
 - 📦 Go: middle
 - 👀 C/C++: junior
+- 🦈 Docker: middle
 - 🍥 OS: Macos, Ubuntu
 - 📫 E-mail: [ardiansyahwelly1992@gmail.com](ardiansyahwelly1992@gmail.com)
