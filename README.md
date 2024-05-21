@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 
 - 📦  Java: middle
 - 📦 JavaScript: senior
-- 📦 Php: senior
-- 📦 Go: middle
-- 👀 C/C++: junior
+- 📦 Php: middle
+- 📦 Go: junior
+- 📦 ReactJS: middle
+- 📦 Flutter: junior
 - 🦈 Docker: middle
 - 🍥 OS: Macos, Ubuntu
 - 📫 E-mail: [ardiansyahwelly1992@gmail.com](ardiansyahwelly1992@gmail.com)
