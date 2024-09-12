@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 📦 Php: middle
 - 📦 Go: junior
 - 📦 ReactJS: middle
-- 📦 Flutter: junior
+- 📦 Flutter: middle
 - 🦈 Docker: middle
 - 🍥 OS: Macos, Ubuntu
 - 📫 E-mail: [ardiansyahwelly1992@gmail.com](ardiansyahwelly1992@gmail.com)
